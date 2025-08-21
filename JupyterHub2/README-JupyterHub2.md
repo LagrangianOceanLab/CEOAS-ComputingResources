@@ -1,10 +1,7 @@
-# CEOAS-ComputingResources
-Repository with information and scripts for shared computing resources in CEOAS.
-
-## Jupyter Hub 2
+# Jupyter Hub 2
 CEOAS classes use Jupyter Hub 2, which can be accessed at https://jupyter2.ceoas.oregonstate.edu/, using your ONID credentials.
 
-Upon login, users will see the following folder structure:
+## Folder structure
 
 ```
 .
@@ -20,4 +17,5 @@ Upon login, users will see the following folder structure:
 - `coursefiles` holds class material organized by year and quarter.
 - `research` will eventually hold project files organized by research group [check on this].
 
-More information on the Jupyter Hub 2 can be found [here](add link).
+## Environments
+CEOAS Jupyter Hub 2 currently has 1 `conda` environment that can be selected, containing the packages listed in [`ocean-clim.yaml`](add link).
